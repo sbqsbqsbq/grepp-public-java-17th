@@ -23,15 +23,15 @@
 ## 🐾 저희 집 가족들을 소개합니다!
 
 <p align="center">
-  <img src="./images/KakaoTalk_Photo_2026-11-26-14-27-27 001.jpeg" width="30%"/>
-  <img src="./images/KakaoTalk_Photo_2026-11-26-14-27-27 002.jpeg" width="30%"/>
-  <img src="./images/KakaoTalk_Photo_2026-11-26-14-27-27 003.jpeg" width="30%"/>
+  <img src="./images/001.jpeg" width="30%"/>
+  <img src="./images/002.jpeg" width="30%"/>
+  <img src="./images/003.jpeg" width="30%"/>
 </p>
 
 <p align="center">
-  <img src="./images/KakaoTalk_Photo_2026-11-26-14-27-27 004.jpeg" width="30%"/>
-  <img src="./images/KakaoTalk_Photo_2026-11-26-14-27-27 005.jpeg" width="30%"/>
-  <img src="./images/KakaoTalk_Photo_2026-11-26-14-27-27 006.jpeg" width="30%"/>
+  <img src="./images/004.jpeg" width="30%"/>
+  <img src="./images/005.jpeg" width="30%"/>
+  <img src="./images/006.jpeg" width="30%"/>
 </p>
 
 고양이, 강아지, 도마뱀과 함께 살고 있습니다!
